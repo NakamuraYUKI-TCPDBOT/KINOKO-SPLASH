@@ -39,4 +39,5 @@ products = {
             "price": 100000,
             "increments": [1, 5, 10]
         }
+    ]
 }
